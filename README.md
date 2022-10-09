@@ -97,7 +97,7 @@ ___
 
 ![Сертефикат Неотологии](/img/Java_certificate.jpg)
 
-![Сертефикат_Неотология JavaScript_начальный курс](/img/003 certificate_JS_intro.jpg)
+![Сертефикат_Неотология JavaScript_начальный курс](/img/003_certificate_JS_intro.jpg)
 
 ![Благодарность](/img/gratitude_Agafonov.jpg)
 
