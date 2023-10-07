@@ -118,7 +118,7 @@ C 30.10.2015 по 27.12.2016 - **Самарский филиал ООО «Т2 Мобайл» (аутсорс ООО «Ан
 ___
 ![Фото](/img/Foto.jpg)
 
-![Диплом переподготовки](/img/Удостоверение_о_повышении_квалификации_гос_образца.jpg)
+![Certification_of_qualification](/img/Certification_of_qualification_state_model.jpg)
 
 ![Диплом переподготовки](/img/Java_Diplom.jpg)
 
